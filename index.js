@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["🗝️Made by GeneYI","🌍**HylexMC.net**", "👑**EX1LE** Guild"];
 
 
 let currentIndex = 0;
